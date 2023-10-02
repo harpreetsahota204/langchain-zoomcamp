@@ -1,0 +1,1 @@
+You can watch (or download) the recording of this session of LangChain zoomcamp [here.](https://bit.ly/3LKpPlz)
